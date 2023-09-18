@@ -1,0 +1,52 @@
+<html>
+    
+  <head>
+    <title>Ben Reitman Resume</title>
+  </head>
+    
+  <body>
+    <h1>Ben Reitman</h1>
+      <p><strong>Journalism and Pre-Law Student at University of Maryland</strong></p>
+      <img src="IMG_0150.jpeg" alt="Photo of me" width ="300">
+      
+    <div id="contact">
+ benjaminreitman5@gmail.com <br>
+ Linkedin: https://www.linkedin.com/in/benjamin-reitman-56b4a420a/ <br>
+ Twitter: @benreitman_ <br>
+ Github: https://github.com/breitman5 <br>
+    </div>
+      
+    <h2>Experience</h2>
+    
+    <h3>Summer Intern</h3>
+    <h4>Greenberg Traurig, LLP</h4>
+    <h5>June 2023 - July 2023</h5>
+    <p>I drafted, reviewed, and revised documents for attorneys, conducted legal research regarding governmental issues, and reviewed and analyzed governmental and judicial structures. </p>
+    
+    <h3>Co-Station Director </h3>
+    <h4>WMUC Sports</h4>
+    <h5>June 2022 - present</h5>
+    <p> I manage and lead over 30 student broadcasters, organize and plan travel to away games for all broadcasters, manage WMUC budget, instruct broadcasters on research methods about players and team statistics, provide feedback and constructive criticism to improve broadcasting, devise strategies to increase overall audience participation and retention rates, and broadcast games streaming live on WMUC website, and post to website after games. </p>
+
+      
+    <h3>Director of Broadcasting and Media Relations</h3>
+    <h4>Maryland Baseball Network</h4>
+    <h5>June 2022 - present</h5>
+    <p> I Manage and lead over 20 student broadcasters,  am responsible for Maryland Baseball Network budget, broadcast games on MBN’s website and interview players pre and post game, responsible for posting live updates on social media sites to increase team visibility, collaborate with UMD PR staff to ensure the best possible broadcast, write gamers and post to MBN website to increase team visibility and website traffic, and meet with coaches and players to understand and fulfill broadcasting requests. </p>
+
+    
+    
+    <h2>Education</h2>
+      <ul>
+      <li>Bachelor of Arts, University of Maryland - College Park, expected May 2024</li>
+      <li>High School Diploma, The Weber School, Atlanta, GA, May 2020</li>
+      </ul>
+      
+    <h2>Skills</h2>
+    <ul> Proficient in Adobe Premiere Pro and Audition </ul>
+<ul> Proficient in All Microsoft software including Word, Excel, and PowerPoint </ul>
+<ul>Extremely knowledgeable in social media such as Instagram, Twitter, and Tik Tok </ul>
+
+  </body>
+    
+</html>
