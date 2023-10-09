@@ -1,0 +1,34 @@
+/*
+MY COLOR PALETTE
+Color 1 - #F79256
+Color 2 - #FBD1A2
+Color 3 - #7DCFB6
+Color 4 - #00B2CA
+Color 5 - #1D4E89
+*/
+
+body {
+    
+    background-color:#FBD1A2;
+    text-align:center;
+}
+
+button{
+    background-color:#00B2CA;
+    width:200px;
+    padding:10px;
+    border:none;
+    border-radius:5px;
+}
+
+
+button:hover{
+    background-color: white;
+}
+
+hi{font-family: 'Roboto', sans-serif;
+}
+
+h2{font-family: 'Roboto', sans-serif;
+text-transform: uppercase;
+}
