@@ -1,21 +1,79 @@
+@media {  
+    
+#Bottom {
+    background-color:#fcf300;
+}  
+    
+
+#topper {
+    background-color:#a2d6f9;
+}    
+    
+    
 img{
-    width:100%;
-  
-}
+    width:100%;  
+    }
 
-.dark{
-    background-color:black
+.nav a {
+    font-family:"montserrat", sans-serif;
+    color:black;
+    text-align:center;
 }
-
+    
+.nav a:hover {
+    text-decoration: bold;
+    color:#072ac8;
+    }
+    
+.nav-item:hover {
+    background-color:white;
+        
+    }    
 
 h1{
-    color:white
-}
+    color:#072ac8;
+    font-family: 'montserrat',sans-serif}
 
-h2{
-    color:white
+h2{color:#072ac8;
+   font-family: 'montserrat',sans-serif
 }
+    
+
+ h3{color:#072ac8;
+     font-family: 'montserrat',sans-serif}    
+
+    
 
 button:hover{
     color: grey;
+
+
 }
+#footer{
+    position:fixed;
+    bottom:0px;
+    background-color:#fcf300;
+    color:black;
+    padding:0px
+    }
+
+}
+
+
+
+@media (min-width:576px)
+
+#topper {
+    background-color:#a2d6f9;
+}    
+
+
+h1{
+    font-size:100px
+}
+
+
+
+
+
+
