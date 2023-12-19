@@ -1,0 +1,60 @@
+
+@media{
+
+ body{
+     font-family:'Roboto Slab', serif;
+     
+    }
+
+img{
+    width:100%;
+}
+
+#topper{
+    height:400px;
+    background-image: url(arkansas-fans-stadium-getty.webp);
+    background-size:cover;
+    background-position: 30% 70%;
+    
+    } 
+
+.pullquote {
+        background-color:red;
+        padding:30px 10px 10px 10px;
+        margin:30px 0px 30px 0px;
+        border-top:5px solid #943a20;
+        text-align:center;
+        color:white;
+        font-family:'Roboto Slab', serif;
+        font-size:24px;
+        font-weight:800;
+    }
+
+#content{
+    width:100%;
+    margin:auto;
+    font-weight:200;
+}
+
+h1{
+    color:black;
+    font-weight:800;
+    text-align:center
+}
+    
+    h2{
+        text-align: center;
+        color:red;
+    }
+
+
+
+@media(min-width:576px){}
+
+@media(min-width:768px){
+    #content{
+    width:80%;
+    }
+    
+}
+
